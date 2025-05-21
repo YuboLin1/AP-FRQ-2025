@@ -1,7 +1,7 @@
 ## Question 2 Analysis
 ### Signature
 
-This section contains my analysis of Question 1 (Methods and Control Structures):
+This section contains my analysis of Question 2 (Classes):
 
 #### My initial approach during the exam:
 - Ideas here
