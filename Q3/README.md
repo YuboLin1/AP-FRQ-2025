@@ -1,7 +1,7 @@
 ## Question 3 Analysis
 ### Competitor List
 
-This section contains my analysis of Question 1 (Methods and Control Structures):
+This section contains my analysis of Question 3 (ArrayList and Arrays):
 
 #### My initial approach during the exam:
 - Ideas here
